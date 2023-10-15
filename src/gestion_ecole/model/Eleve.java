@@ -48,5 +48,8 @@ public class Eleve {
 		this.observation = observation;
 	}
 	
+	public Eleve() {
+
+	}
 
 }
